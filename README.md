@@ -1,12 +1,12 @@
 
 # Projeto realizado no Bootcamp Generation - Full Stack 
 
-Este repositório é voltado para estudo e composto por projetos realizados no estudo da linguagem C#.
+Repositorio para a criação do projeto elaborado em sala no curso de Javacript Full Stack do Bootcamp da Generation.
 
 
 # 📚 Projeto I
 
-Elaboração de conta contábil 
+Elaboração de conta bancaria 
 
 ### 🖥 Fundamentos presentes no Projeto
 - Uso de Classes / Objetos
